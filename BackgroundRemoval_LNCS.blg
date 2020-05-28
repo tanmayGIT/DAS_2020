@@ -2,15 +2,15 @@ This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: BackgroundRemoval_LNCS.aux
 The style file: splncs04.bst
-Database file #1: ../../All_Biblios_Links/library.bib.bib
-Repeated entry---line 11925 of file ../../All_Biblios_Links/library.bib.bib
+Database file #1: library.bib.bib
+Repeated entry---line 11925 of file library.bib.bib
  : @article{Ahmed2012a
  :                    ,
 I'm skipping whatever remains of this entry
 Warning--there's a number but no series in Ahmed2012a
 You've used 14 entries,
             2846 wiz_defined-function locations,
-            690 strings with 7093 characters,
+            690 strings with 7069 characters,
 and the built_in function-call counts, 9049 in all, are:
 = -- 771
 > -- 278
