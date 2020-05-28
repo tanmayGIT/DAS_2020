@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{Ahmed2012a}
+Ahmed, S., Liwicki, M., Dengel, A.: {Extraction of Text Touching Graphics Using
+  SURF}. In: 2012 10th IAPR International Workshop on Document Analysis
+  Systems. pp. 349--353. No. March, IEEE (mar 2012)
+
+\bibitem{Bataineh2011}
+Bataineh, B., Abdullah, S.N.H.S., Omar, K.: {An Adaptive Local Binarization
+  Method for Document Images Based on a Novel Thresholding Method and Dynamic
+  Windows}. Pattern Recognition Letters  \textbf{32}(14),  1805--1813 (2011)
+
+\bibitem{BolanSu2013}
+{Bolan Su}, {Shijian Lu}, {Chew Lim Tan}: {A Robust Document Image Binarization
+  Technique for Degraded Document Images}. IEEE Transactions on Image
+  Processing  \textbf{22}(4),  1408--1417 (2013)
+
+\bibitem{Dollar2013}
+Dollar, P., Zitnick, C.L.: {Structured Forests for Fast Edge Detection}. In:
+  ICCV (2013)
+
+\bibitem{Gatos2006}
+Gatos, B., Pratikakis, I., Perantonis, S.: {Adaptive degraded document image
+  binarization}. Pattern Recognition  \textbf{39}(3),  317--327 (mar 2006)
+
+\bibitem{Gerig1992}
+Gerig, G., Kbler, O., Kikinis, R., Jolesz, F.A.: {Nonlinear Anisotropic
+  Filtering of MRI Data}. IEEE Transactions on Medical Imaging  (1992)
+
+\bibitem{Lei2017}
+He, L., Nandi, A.K., Jia, X., Zhang, Y., Meng, H., Lei, T.: {Significantly Fast
+  and Robust Fuzzy C-Means Clustering Algorithm Based on Morphological
+  Reconstruction and Membership Filtering}. IEEE Transactions on Fuzzy Systems
+  \textbf{26}(5),  3027--3041 (2018)
+
+\bibitem{Jia2016}
+Jia, F., Shi, C., He, K., Wang, C., Xiao, B.: {Document Image Binarization
+  Using Structural Symmetry of Strokes}. ICFHR-2016 pp. 411--416 (2016)
+
+\bibitem{Jia2018}
+Jia, F., Shi, C., He, K., Wang, C., Xiao, B.: {Degraded document image
+  binarization using structural symmetry of strokes}. Pattern Recognition
+  \textbf{74},  225--240 (2018)
+
+\bibitem{Mondal2019}
+Mondal, T., Coustaty, M., Gomez-Kr{\"{a}}mer, P., Ogier, J.m.: {Learning Free
+  Document Image Binarization Based on Fast Fuzzy C-Means Clustering}. In:
+  ICDAR. pp. 1384--1389. IEEE (2019)
+
+\bibitem{Pratikakis2018}
+Pratikakis, I., Zagoris, K., Barlas, G., Gatos, B.: {ICDAR2017 Competition on
+  Document Image Binarization (DIBCO 2017)}. ICDAR  \textbf{1}(Dibco),
+  1395--1403 (2018)
+
+\bibitem{Sauvola2000}
+Sauvola, J., Pietik{\"{a}}inen, M.: {Adaptive document image binarization}.
+  Pattern Recognition  (2000)
+
+\bibitem{Tensmeyer2018}
+Tensmeyer, C., Martinez, T.: {Document Image Binarization with Fully
+  Convolutional Neural Networks}. ICDAR  \textbf{1},  99--104 (2018)
+
+\bibitem{Vo2017}
+Vo, Q.N., Kim, S.H., Yang, H.J., Lee, G.: {Binarization of degraded document
+  images based on hierarchical deep supervised network}. Pattern Recognition
+  \textbf{74},  568--586 (2017)
+
+\end{thebibliography}
